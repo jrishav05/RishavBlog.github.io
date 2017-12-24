@@ -1,7 +1,7 @@
 ---
+title: "India - an emerging Muslim nation?"
 layout: post
-title: India – an emerging Muslim nation?  
-excerpt: "An data-backed answer to Hindu Muslim population equality in future"
+excerpt: "An data-backed answer to the question of equal population of Hindu and Muslim in future"
 categories: []
 comments: true
 image:
