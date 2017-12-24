@@ -19,6 +19,7 @@ markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
 permalink:         /articles/:year-:month/:title
+future: true # To make posts with future dates visible 
 
 kramdown:
   auto_ids: true
