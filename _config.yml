@@ -5,8 +5,8 @@
 #
 title: Rishav Jain 
 email: jrishav05@gmail.com
-description: My awesome powsome 
-url: https://rishavblog.github.io
+description: Blog 
+url: https://jrishav05.github.io
 
 
 #
@@ -14,7 +14,7 @@ url: https://rishavblog.github.io
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Kolkata
+#timezone:          Asia/Kolkata
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -36,8 +36,8 @@ kramdown:
 owner:
   name: Rishav Jain 
   avatar: avatar.jpg 
-  job: "Mechanical Engineer at Mitsubishi Motors"
-  bio: "Curious monk, Desparate for girls"
+  job: "Mechanical Engineer at Mitsubishi Heavy Industries Compressor Corporation"
+  bio: "Avid reader"
   email: jrishav05@gmail.com
   disqus-shortname: https-rishavblog-github-io 
   twitter: #username
@@ -49,7 +49,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: jrishav #username
+  github: jrishav05 #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: rishav-jain-695622b6 #username
