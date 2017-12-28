@@ -1,7 +1,7 @@
 ---
 title: "India - an emerging Muslim nation?"
 layout: post
-excerpt: "An data-backed answer to the question of equal population of Hindu and Muslim in future"
+excerpt: "A data-backed analysis of future population of Hindu and Muslim community in India"
 categories: []
 comments: true
 image:
@@ -45,7 +45,7 @@ Also, by combining the data of Table 1 and Table 2, the relative rate of populat
 Graph 1: Decade-wise increase rate of Hindu and Muslim population
 {: style="color:gray; font-size: 90%; text-align: center;"}
 
-First of all, it can be seen that the growth rates remain the same during 1961-71and 1971-81. The reason for this observation may lie in the emergency period of 1975-77 <sup>[10]</sup> when people were forcefully sterilized by the government. Since emergency is a big topic in itself, let’s try to be focussed on the topic in hand, where, from the above graph, it can be inferred that the growth rate of Muslims is greater than Hindus. So, this means, if this trend continues, both communities are bound to become equal in population in future. So, let’s try to find a cross-over point when Hindu and Muslim population will become equal.
+First of all, it can be seen that the growth rates remain the same during 1961-71 and 1971-81. The reason for this observation may lie in the emergency period of 1975-77 <sup>[10]</sup> when people were forcefully sterilized by the government. Since emergency is a big topic in itself, let’s try to be focussed on the topic in hand, where, from the above graph, it can be inferred that the growth rate of Muslims is greater than Hindus. So, this means, if this trend continues, both communities are bound to become equal in population in future. So, let’s try to find a cross-over point when Hindu and Muslim population will become equal.
 
 For this, I am going to assume that total Indian population is going to grow at its current rate of around 17% per decade. Now, as it can be seen that, both Hindu and Muslim population growth rate are decreasing with passing decades. So, it is highly probable that these growths are expected to go further down for both communities due to easy accessibility of family planning. But, I am going to assume that only ‘Hindu population growth’ is going to decrease at its average decrement rate (Decrement rate is different from growth rate. It means the change of growth rate with time. You can understand it by a simple analogy: If growth rate is velocity of an object, then decrement rate is deceleration of the same object :p ) of around 12% while assuming the ‘Muslim growth rate’ constant at its current average growth rate of nearly 23% (that means 0% decrement rate in Muslim growth). I am doing this; just to see, how early Muslim population can becomes equal to its Hindu counterpart.
 
